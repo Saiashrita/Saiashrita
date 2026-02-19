@@ -73,4 +73,10 @@ I’m not just collecting skills — I’m building capability.
 
 ---
 
+### 🌟 Leetcode Status
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Saiashrita?ext=heatmap)](https://leetcode.com/Saiashrita/)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=Saiashrita&icon=0&color=3)](https://visitcount.itsvg.in)
