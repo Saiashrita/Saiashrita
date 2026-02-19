@@ -4,9 +4,7 @@
 
 <p style="font-size:14px; line-height:1.6;">
 
-I’m an IT engineering student who genuinely enjoys building things — whether it’s a backend system, a data analysis project, or just solving a stubborn DSA problem at 11 PM because I <i>refuse</i> to leave it unsolved.<br><br>
-
-I believe in learning by doing. Most of my skills didn’t come from just lectures — they came from debugging errors, rewriting logic, breaking code, fixing it, and understanding why it broke in the first place.<br><br>
+I’m an IT engineering student who genuinely enjoys building things — whether it’s a backend system, a data analysis projectI believe in learning by doing. Most of my skills didn’t come from just lectures — they came from debugging errors, rewriting logic, breaking code, fixing it, and understanding why it broke in the first place.<br>
 
 I work with Python, Java, SQL, and front-end frameworks like React and Angular. I enjoy backend logic, automation, and data-driven systems — especially when they solve real-world problems.<br><br>
 
