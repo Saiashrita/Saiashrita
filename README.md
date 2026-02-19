@@ -1,6 +1,23 @@
 # 💫 About Me:
-## 👋 Hey, I’m Saiashrita<br><br>I’m an IT engineering student who genuinely enjoys building things — whether it’s a backend system, a data analysis project, or just solving a stubborn DSA problem at 11 PM because I *refuse* to leave it unsolved.<br><br>I believe in learning by doing. Most of my skills didn’t come from just lectures — they came from debugging errors, rewriting logic, breaking code, fixing it, and understanding why it broke in the first place.<br><br>I work with Python, Java, SQL, and front-end frameworks like React and Angular. I enjoy backend logic, automation, and data-driven systems — especially when they solve real-world problems.<br><br>Outside tech, I coach karate and play competitive frisbee. Sports taught me discipline, resilience, and how to perform under pressure — skills I carry into my engineering journey every single day.<br><br>Right now, I’m focused on:<br>• Strengthening DSA & problem-solving  <br>• Building impactful full-stack projects  <br>• Exploring AI-driven systems  <br>• Becoming the kind of engineer teams can rely on  <br><br>I’m not just collecting skills — I’m building capability.<br>
+## 👋 Hey, I’m Saiashrita<br><br><p style="font-size: 14px; line-height: 1.6;">
 
+I’m an IT engineering student who genuinely enjoys building things — whether it’s a backend system, a data analysis project, or just solving a stubborn DSA problem at 11 PM because I <i>refuse</i> to leave it unsolved.<br><br>
+
+I believe in learning by doing. Most of my skills didn’t come from just lectures — they came from debugging errors, rewriting logic, breaking code, fixing it, and understanding why it broke in the first place.<br><br>
+
+I work with Python, Java, SQL, and front-end frameworks like React and Angular. I enjoy backend logic, automation, and data-driven systems — especially when they solve real-world problems.<br><br>
+
+Outside tech, I coach karate and play competitive frisbee. Sports taught me discipline, resilience, and how to perform under pressure — skills I carry into my engineering journey every single day.<br><br>
+
+Right now, I’m focused on:<br>
+• Strengthening DSA & problem-solving<br>
+• Building impactful full-stack projects<br>
+• Exploring AI-driven systems<br>
+• Becoming the kind of engineer teams can rely on<br><br>
+
+I’m not just collecting skills — I’m building capability.
+
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saiashrita-panganti-b1900627a/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Saiashrita Srinivas Panganti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saiashritapanganti@gmail.com) 
